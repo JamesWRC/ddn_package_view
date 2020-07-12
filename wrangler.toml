@@ -1,6 +1,4 @@
-name = "template"
+name = "ddn_package_view"
 type = "javascript"
-account_id = ""
 workers_dev = true
-route = ""
-zone_id = ""
+routes = ["ddn.dev/store/pkg/", "www.ddn.dev/store/pkg/"]
